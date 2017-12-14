@@ -1,0 +1,17 @@
+{
+  "_generated": "xiaoguang wang",
+  "description": "Popup window on active monitor, not only on primary monitor",
+  "name": "Popup on active monitor",
+  "original-authors": [
+    "sun.wxg@gmail.com"
+  ],
+  "shell-version": [
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26"
+  ],
+  "url": "",
+  "uuid": "popupActiveMonitor@sun.wxg@gmail.com",
+  "version": 1.0
+}
