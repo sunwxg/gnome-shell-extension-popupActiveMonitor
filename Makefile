@@ -4,6 +4,6 @@ submit:
 
 install:
 	rm -rf ~/.local/share/gnome-shell/extensions/popupActiveMonitor@sun.wxg@gmail.com
-	mkdir ~/.local/share/gnome-shell/extensions
+	mkdir -pv ~/.local/share/gnome-shell/extensions
 	cp -r popupActiveMonitor@sun.wxg@gmail.com ~/.local/share/gnome-shell/extensions/
 
